@@ -1,0 +1,20 @@
+.imageContainer{
+    background-color: aquamarine;
+    width: 200px;
+    height:200px;
+   
+}
+.menu{
+    display:flex;
+    justify-content: space-between;    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: aquamarine;
+    width: 200px;
+    height:200px;
+   
+    display:flex;
+    flex-wrap:wrap
+}
